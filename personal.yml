@@ -1,0 +1,8 @@
+CorpId:
+ProviderSecret:
+SuiteId: suite-id-replace
+SuiteSecret: suite-secret-replace
+SuiteToken: suite-token-replace
+SuiteEncodingAesKey: aes-replace
+Dsn: user:pwd@tcp(127.0.0.1:3306)/personal?charset=utf8mb4&parseTime=True&loc=Local
+Port: 9008
